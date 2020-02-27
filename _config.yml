@@ -7,6 +7,6 @@ repository: pauliver/github.tips
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
-# aux_links:
-#  ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
+aux_links:
+  ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
 
