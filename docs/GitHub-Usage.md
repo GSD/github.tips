@@ -9,14 +9,30 @@ There are many way's to use GitHub
 
 # GitHub.com Website
 
+[https://github.com/](https://github.com/)
+
 # Many Clients
 
 ## Git Client List
+
+[https://git-scm.com/](https://git-scm.com/)
+
+[https://tortoisegit.org/](https://tortoisegit.org/)
+
+[https://www.gitkraken.com/git-client](https://www.gitkraken.com/git-client)
+
+
 
 ## Custom GitHub Clients
 
 ### HUB Client
 
-### GH Client
+[https://hub.github.com/](https://hub.github.com/)
+
+### GH CLI Client
+
+[https://cli.github.com/](https://cli.github.com/)
 
 ### GitHub Desktop
+
+[https://desktop.github.com/](https://desktop.github.com/)
