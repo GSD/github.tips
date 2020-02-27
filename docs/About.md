@@ -10,4 +10,4 @@ github.tips website using the [Just the Docs](https://github.com/pmarsceill/just
 
 [Pull Requests Welcome](https://github.com/pauliver/github.tips/)
 
-![Jekyll site CI](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
+[![Jekyll site CI](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/pauliver/github.tips/actions?query=workflow%3A%22Jekyll+site+CI%22)
