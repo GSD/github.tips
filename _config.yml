@@ -1,5 +1,8 @@
+# Remote Setting
+baseurl: "/guidelines"
+# url: ""
 
-remote_theme: just-the-docs
-
-
+# Theme
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 
