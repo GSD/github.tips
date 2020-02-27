@@ -2,8 +2,8 @@
 layout: default
 title: Actions Resources
 nav_order: 1
+parent : API and Doc
 grand_parent: Actions Home 
-parent : API & Doc
 has_children: false
 ---
 
