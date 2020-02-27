@@ -1,15 +1,8 @@
 ---
 layout: default
 title: Actions Home
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+# Top level actions page
