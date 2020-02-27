@@ -1,8 +1,8 @@
 ---
 layout: default
 title: API & Doc
-nav_order: 2
 parent: Actions Home
+nav_order: 2
 has_children: false
 ---
 
