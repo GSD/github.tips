@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Actions Marketplace
-nav_order: 3
 parent: Actions Home
+nav_order: 2
 has_children: false
 ---
 
