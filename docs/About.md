@@ -6,8 +6,8 @@ has_children: false
 ---
 
 # github.tips
-github.tips website using the [Just the Docs](https://github.com/pmarsceill/just-the-docs) style
+The github.tips website is using the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll style
 
-[Pull Requests Welcome](https://github.com/pauliver/github.tips/)
+It's Open Source, and hosted through GitHub pages. [Pull Requests are Welcome](https://github.com/pauliver/github.tips/).
 
-[![Jekyll site CI](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/pauliver/github.tips/actions?query=workflow%3A%22Jekyll+site+CI%22)
+[Current Build Status: ![Jekyll site CI](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/pauliver/github.tips/actions?query=workflow%3A%22Jekyll+site+CI%22)
