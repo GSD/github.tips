@@ -1,6 +1,6 @@
 # Remote Setting
 baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
-url: "github.tips"
+#url: "github.tips"
 
 # Theme
 # theme: "just-the-docs"
