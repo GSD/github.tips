@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Actions Home
-parent: index
+parent: Home
 nav_order: 1
 has_children: true
 ---
