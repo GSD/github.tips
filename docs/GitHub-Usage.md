@@ -25,14 +25,14 @@ There are many way's to use GitHub
 
 ## Custom GitHub Clients
 
-### HUB Client
-
-[https://hub.github.com/](https://hub.github.com/)
-
-### GH CLI Client
+### GitHub CLI Client
 
 [https://cli.github.com/](https://cli.github.com/)
 
 ### GitHub Desktop
 
 [https://desktop.github.com/](https://desktop.github.com/)
+
+### HUB Client
+
+[https://hub.github.com/](https://hub.github.com/)
