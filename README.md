@@ -1,3 +1,9 @@
+---
+layout: default
+title: GitHub About ReadMe
+nav_exclude: true
+---
+
 # github.tips
 github.tips website using the [Just the Docs](https://github.com/pmarsceill/just-the-docs) style
 
