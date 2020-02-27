@@ -1,5 +1,5 @@
 # Remote Setting
-baseurl: "/guidelines"
+# baseurl: "/guidelines" #https://github.com/pmarsceill/just-the-docs/issues/148
 # url: ""
 
 # Theme
