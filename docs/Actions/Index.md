@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actions Index
+title: Actions Home
 parent: index
 nav_order: 2
 ---
