@@ -2,7 +2,6 @@
 layout: default
 title: Actions YML File
 parent: Actions Home
-grand_parent: index
 nav_order: 1
 ---
 
