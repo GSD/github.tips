@@ -2,7 +2,7 @@
 layout: default
 title: API & Doc
 parent: Actions Home
-nav_order: 2
+nav_order: 1
 has_children: false
 ---
 
