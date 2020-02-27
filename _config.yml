@@ -1,5 +1,5 @@
 # Remote Setting
-baseurl: "/docs" #https://github.com/pmarsceill/just-the-docs/issues/148
+baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
 #url: "github.tips"
 repository: pauliver/github.tips
 
