@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index
+title: Index
 nav_order: 1
 has_children: true
 ---
