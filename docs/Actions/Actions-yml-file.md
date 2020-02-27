@@ -2,7 +2,8 @@
 layout: default
 title: Actions YML File
 parent: Actions Home
-nav_order: 1
+nav_order: 3
+has_children: false
 ---
 
 # Page Build
