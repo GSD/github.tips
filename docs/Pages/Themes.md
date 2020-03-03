@@ -6,7 +6,7 @@ nav_order: 3
 has_children: false
 ---
 
-(https://jekyllrb.com/docs/themes/)[https://jekyllrb.com/docs/themes/]
+[https://jekyllrb.com/docs/themes/](https://jekyllrb.com/docs/themes/)
 
 # Easy Themes
 
