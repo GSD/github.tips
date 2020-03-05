@@ -43,3 +43,15 @@ Triggers on all pull requests that include images, but do not have the tags auto
 # ALL PR triggers
 
 All PR request triggers have extra data of the PR number, actions built for these don't cleanly pull over to other triggers since the other triggers do not have the PR # and wiring it in may not be easy.
+
+# Bail Out if not head
+
+If you are building an action that requires checking files back in, or you think you might end up running a bunch of copiees
+
+The following check will prevent a step from running if you are not the head revision
+
+```yml
+if: "github.ref == 'refs/heads/master'" #if we aren't the head revision, we won't check in, so bail out
+```
+
+https://help.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
