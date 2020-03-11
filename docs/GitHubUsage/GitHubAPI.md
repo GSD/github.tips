@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub API 
-parent: GitHub Pages
+parent: GitHub Usage
 nav_order: 1
 has_children: false
 ---
