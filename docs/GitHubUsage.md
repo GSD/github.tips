@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Usage
 nav_order: 4
-has_children: false
+has_children: true
 ---
 
 There are many way's to use GitHub
@@ -22,7 +22,6 @@ There are many way's to use GitHub
 [https://www.gitkraken.com/git-client](https://www.gitkraken.com/git-client)
 
 
-
 ## Custom GitHub Clients
 
 ### GitHub CLI Client
@@ -36,3 +35,8 @@ There are many way's to use GitHub
 ### HUB Client
 
 [https://hub.github.com/](https://hub.github.com/)
+
+## GitHub API
+
+
+[API Link](/GitHubUsage/GitHUbAPI.md)
