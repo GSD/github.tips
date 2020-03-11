@@ -8,9 +8,15 @@ has_children: false
 
 # API V3
 
+https://developer.github.com/v3/
+
 ## OctoKit
 
+https://developer.github.com/v3/libraries/
+
 # Graph QL
+
+https://developer.github.com/v4/
 
 # Rate Limiting 
 
