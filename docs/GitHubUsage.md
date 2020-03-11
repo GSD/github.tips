@@ -39,4 +39,4 @@ There are many way's to use GitHub
 ## GitHub API
 
 
-[API Link](/GitHubUsage/GitHUbAPI.md)
+[API Link](./GitHubUsage/GitHubAPI.md)
