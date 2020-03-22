@@ -3,6 +3,12 @@ baseurl: "/" #https://github.com/pmarsceill/just-the-docs/issues/148
 #url: "github.tips"
 repository: pauliver/github.tips
 
+title: GitHub Tips
+
+description: A place for Tips and Tricks _(for GitHub)_
+
+permalink: pretty
+
 # Theme
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
