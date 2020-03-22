@@ -10,3 +10,6 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
 
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: UA-159396166-4
