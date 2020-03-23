@@ -13,12 +13,14 @@ permalink: pretty
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
-aux_links:
-  ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
-
 # Google Analytics Tracking (optional)
 # e.g, UA-159396166-4
 ga_tracking: UA-159396166-4
 plugins:  # not for this theme, but just to be safe, unless it breaks somthing?
   - jekyll-seo-tag # not for this theme, but just to be safe, unless it breaks somthing?
 google_analytics: UA-159396166-4 # not for this theme, but just to be safe, unless it breaks somthing?
+
+aux_links:
+  - ![](https://github.com/pauliver/github.tips/workflows/Jekyll%20site%20CI/badge.svg)
+
+
