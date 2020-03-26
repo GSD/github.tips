@@ -11,8 +11,7 @@ has_children: false
 https://developer.github.com/v3/
 
 ## OctoKit
-
-https://developer.github.com/v3/libraries/
+https://github.com/octokit
 
 # Graph QL
 
